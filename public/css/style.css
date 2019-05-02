@@ -1,0 +1,106 @@
+.footer-social-icon a {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 35px;
+    margin: 10px 10px;
+    display: block;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    border: 3px solid #fff;
+}
+
+.footer-social-icon a .fa {
+    position: relative;
+    color: #fff;
+    transition: .5s;
+}
+
+.footer-social-icon a:hover {
+    transition: all 0.2s ease-in-out;
+}
+
+.footer-social-icon a.face {
+    background: rgb(83, 80, 129);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.footer-social-icon a.ins {
+    background: rgb(109, 141, 184);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.footer-social-icon a.you {
+    background: rgb(143, 5, 35);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+footer {
+    background: rgb(191, 247, 220);
+    margin-top: 50px;
+}
+  
+.parallax {
+    
+    height: 500px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-img1 {
+    background-image: url("/greece.jpg");
+}
+
+.p-img2 {
+    background-image: url("/adventure.jpg");
+}
+
+.p-img3 {
+    background-image: url("/bag-beach.jpg");
+}
+
+.p-img4 {
+    background-image: url("/flights.jpg");
+}
+
+.p-img5 {
+    background-image: url("/blog.jpg");
+}
+
+.p-img6 {
+    background-image: url("/dashboard.jpg");
+}
+
+.p-img7 {
+    background-image: url("/travelquote.jpg");
+}
+
+.p-img8 {
+    background-image: url("/camera-kid.jpg");
+}
+
+.p-img9 {
+    background-image: url("/login.jpg");
+}
+
+.para-head {
+    font-family: "Luna";
+    color: rgb(3, 3, 3);
+    font-size: 4em;
+
+}
+
+.para-head1 {
+    font-family: "Luna";
+    color: #fff;
+    font-size: 4em;
+}
+
